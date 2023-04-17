@@ -8,7 +8,48 @@ ul {
     
 }
 
+.container {
+    padding: 2%;
+}
+
 li {
     display: inline;
+    
+    background-color: black;
+    padding: 1% ;
+    margin-right: 2%;
+    border: 3px solid white;
+}
+
+li a {
     text-decoration: none;
+    padding: 3% 5%;
+    color: white;
+}
+
+aside {
+    width: 30%;
+    float: left;
+
+}
+
+aside article {
+    padding: 5%;
+    margin-bottom: 5%;
+    background-color: burlywood;
+    border: 1px solid black;
+}
+
+main {
+    width: 65%;
+    float: right;
+    padding: 2%;
+    color: white;
+    background-color: black;
+}
+
+main section {
+    margin-bottom: 3%;
+    padding: 2%;
+    border: 1px solid white;
 }
