@@ -9,7 +9,8 @@ h1 {
 }
 
 ul {
-    
+    border: 2px solid green;
+    padding: 20px 0;
 }
 
 .container {
