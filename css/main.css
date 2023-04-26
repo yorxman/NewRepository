@@ -9,7 +9,8 @@ h1 {
 }
 
 ul {
-    
+    border: 2px solid green;
+    padding: 20px 0;
 }
 
 .container {
@@ -19,7 +20,7 @@ ul {
 li {
     display: inline;
     
-    background-color: rgb(166, 255, 0);
+    background-color: blue;
     padding: 1% ;
     margin-right: 2%;
     border: 3px solid white;
@@ -29,6 +30,7 @@ li a {
     text-decoration: none;
     padding: 3% 5%;
     color: white;
+    
 }
 
 aside {
